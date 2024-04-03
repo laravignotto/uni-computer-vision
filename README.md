@@ -1,6 +1,6 @@
-# uni-computer-vision
+# Computer Vision [![My Skills](https://skillicons.dev/icons?i=python,pytorch)](https://skillicons.dev)
 
-Repository for lessons and projects for my university course in Computer Vision. [in English]
+Repository for lessons and projects for the Computer Vision course at UNIUD. :uk:/:us:
 
 
 ## Project topics
