@@ -1,4 +1,5 @@
-# Computer Vision [![My Skills](https://skillicons.dev/icons?i=python,pytorch)](https://skillicons.dev)
+# Computer Vision [![My Skills](https://skillicons.dev/icons?i=python,pytorch)](https://skillicons.dev) ![](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
+---
 
 Repository for lessons and projects for the Computer Vision course at UNIUD. :uk:/:us:
 
